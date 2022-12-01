@@ -22,6 +22,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 Submission
-The URL of the deployed application. - https://hinalpatel8988.github.io/Week1-Challenge/
+The URL of the deployed application. - https://hinalpatel8988.github.io/Hinal-Portfolio/
 
 The URL of the GitHub repository, with a unique name and a README that describes the project - https://github.com/Hinalpatel8988/Hinal-Portfolio.git
